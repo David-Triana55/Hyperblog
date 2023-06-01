@@ -1,7 +1,20 @@
 body {
+    color: #333;
     text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-    color: brown;
-    margin-top: 35px;
-    font-weight: bold;
+    font-family: arial;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    width: 70%;
+    padding: 1em;
+    border: 1px solid #3f3535;
+    margin: 0 auto;
+    text-align: left;
+}
+
+#container h1 {
+    font-size: 20px;
 }
